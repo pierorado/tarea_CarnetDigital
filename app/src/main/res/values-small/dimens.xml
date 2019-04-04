@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_foto_width">100dp</dimen>
+    <dimen name="main_fullname_size">24sp</dimen>
+    <dimen name="main_cargo_size">20sp</dimen>
+    <dimen name="main_logo_width">100dp</dimen>
+</resources>
